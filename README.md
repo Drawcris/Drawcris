@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there👋 I'm Maciej Małutowsk</h1>
+  <h1>Hi there👋 I'm Maciej Małutowski</h1>
 </div>
 🎓 Education: Graduated with a BSc in Computer Science. I am currently pursuing a Master's degree in Computer Science. <br>
 💻 I specialize in **Python, Django .NET**, but I also enjoy working with **JavaScript** and **React**.  
