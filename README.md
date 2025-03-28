@@ -50,7 +50,7 @@
 
 
 ### 📬**Contact**
-📧 Email: **sirwoj2@wp.pl**  
+📧 Email: **M.Malutowski@outlook.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/mmalutowski/**
 
 
