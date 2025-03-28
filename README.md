@@ -2,7 +2,7 @@
   <h1>Hi there👋 I'm Maciej Małutowski</h1>
 </div>
 🎓 Education: Graduated with a BSc in Computer Science. I am currently pursuing a Master's degree in Computer Science. <br>
-💻 I specialize in **Python, Django .NET**, but I also enjoy working with **JavaScript** and **React**.  
+💻 I specialize in **Python, Django .NET**, but I also enjoy working with **JavaScript** and **React**.  <br>
 🚀 I develop modern web applications using **Django, .NET Web API** and build interactive user interfaces with **React**.  
 
 ## 🛠 Tech Stack
