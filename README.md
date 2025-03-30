@@ -48,7 +48,11 @@
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge) <br>
 📂 [Project Repository](https://github.com/Drawcris/GeoLocationAPI1.0)
 
-
+📌**MovieWebApp** in Progress <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+📂 [Project Repository](https://github.com/Drawcris/MoviesWebApp)
 
 
 ### 📬**Contact**
