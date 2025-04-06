@@ -36,7 +36,15 @@
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
 
-## 📌 My Projects: 
+## 📌 My Projects: 🛠 in progress
+📌**Finly.io - App that helps you controll your money** <br>
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+📂 [Project Repository]  🛠 in progress
+
+
 📌**User and Route Management Application** <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
