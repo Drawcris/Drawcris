@@ -39,14 +39,14 @@
 ## 📌 My Projects: 
 📌**Finly.io - App that helps you controll your money** 🛠 in progress<br>
 ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Used-blue?logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge) <br>
-📂 [Project Front Repository](https://github.com/Drawcris/Finly-Front)
-📂 [Project Front Repository](https://github.com/Drawcris/Finly_API)
+📂 [Project Frontend Repository](https://github.com/Drawcris/Finly-Front)
+📂 [Project Backend Repository](https://github.com/Drawcris/Finly_API)
 
 📌**User and Route Management Application** <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
