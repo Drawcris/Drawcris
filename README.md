@@ -37,7 +37,7 @@
 
 
 ## 📌 My Projects: 
-📌**Finly.io <br><br> Finly.io is a full-stack personal finance management tool that lets users track income and expenses, set category-based budgets, visualize data trends, and export reports.** <br>
+📌**Finly.io <br><br> Finly.io is a full-stack personal finance management tool that lets users track income and expenses, set category-based budgets, visualize data trends, and export reports.** <br><br>
 ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
