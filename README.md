@@ -37,7 +37,7 @@
 
 
 ## 📌 My Projects: 
-📌**Finly.io <br><br> Finly.io is a full-stack personal finance management tool that lets users track income and expenses, set category-based budgets, visualize data trends, and export reports.** <br><br>
+📌**Finly.io <br> Finly.io is a full-stack personal finance management tool that lets users track income and expenses, set category-based budgets, visualize data trends, and export reports.** <br><br>
 ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -48,7 +48,7 @@
 📂 [Project Frontend Repository](https://github.com/Drawcris/Finly-Front)
 📂 [Project Backend Repository](https://github.com/Drawcris/Finly_API)
 
-📌**Route Manager <br><br> User and Route Management Application**  <br> <br>
+📌**Route Manager <br> User and Route Management Application**  <br> <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
