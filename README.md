@@ -34,7 +34,7 @@
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=for-the-badge)
 
 
 
