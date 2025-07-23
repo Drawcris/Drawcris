@@ -2,8 +2,8 @@
   <h1>Hi there👋 I'm Maciej Małutowski</h1>
 </div>
 🎓 Education: Graduated with a BSc in Computer Science. I am currently pursuing a Master's degree in Computer Science. <br>
-💻 I specialize in <b>Python, Fastapi, Django, ASP.NET,</b> but I also enjoy working with <b>TypeScript and React.</b>  <br>
-🚀 I develop modern web applications using <b>Django, Fastapi .NET Web API</b> and build interactive user interfaces with <b>React</b>.  
+💻 I specialize in <b>Python and C#,</b> but I also enjoy working with <b>TypeScript.</b>  <br>
+🚀 I develop modern web applications using <b>Django, Fastapi ASP.NET Web API</b> and build interactive user interfaces with <b>React</b>.  
 
 ## 🛠 Tech Stack
 
