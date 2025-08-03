@@ -59,6 +59,8 @@ EduNotes is a collaborative note-taking platform that helps students and organiz
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-%23007ACC?logo=deepseek&logoColor=white)](https://deepseek.com)
+
 
 
 
