@@ -1,54 +1,88 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maciej+Małutowski!;" />
+</h1>
+
+
+
 <div align="center">
-  <h1>Hi there👋 I'm Maciej Małutowski</h1>
+ 
+ 🔭 I’m currently working on **a student notes managment app with ai features**
+
+ 🎓  Graduated with a **BSc in Computer Science.** I am currently pursuing a **Master's degree** in Computer Science.
+
+💻 I specialize in **Python** and **C#**, but I also enjoy working with **JS and TypeScript**.
+
+🚀 I develop modern web applications using **Django, Fastapi ASP.NET Web API** and build interactive user interfaces with **React and nextjs**. 
+ 
+ 🌱 I’m currently learning **CI/CD, AWS**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:M.Malutowski@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
+  </a>
+  <a href="https://www.linkedin.com/in/mmalutowski" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
 </div>
-🎓 Education: Graduated with a BSc in Computer Science. I am currently pursuing a Master's degree in Computer Science. <br>
-💻 I specialize in <b>Python and C#,</b> but I also enjoy working with <b>TypeScript.</b>  <br>
-🚀 I develop modern web applications using <b>Django, Fastapi ASP.NET Web API</b> and build interactive user interfaces with <b>React</b>.  
 
-## 🛠 Tech Stack
+ <hr/>
 
-### **Programming Languages**  
+<h2 align="center">⚒️ TECH STACK ⚒️</h2>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cs,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,pycharm" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">📌 Projects 📌</h2> 
+<br>
+<div align="center">
+
+📌 **EduNotes**  
+EduNotes is a collaborative note-taking platform that helps students and organizations efficiently manage and share educational content through customizable channels and topics. The application features asynchronous operations, real-time likes system, AI-powered note summarization, and a comprehensive user ranking system that rewards active participation.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### **Backend Development**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-
-### **Databases** 
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white&style=for-the-badge)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
-## 📌 My Projects: 
-📌**Finly.io <br> Finly.io is a full-stack personal finance management tool that lets users track income and expenses, set category-based budgets, visualize data trends, and export reports.** <br><br>
+📂 [Project Frontend Repository](https://github.com/AleeN1337/EduNotes)
+📂 [Project Backend Repository](https://github.com/Drawcris/EduNotes_API)
+
+<hr/>
+
+📌 **Finly.io**  
+ Finly.io is a full-stack personal finance management tool that lets users track income and expenses, set category-based budgets, visualize data trends, and export reports.**
+
 ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge) <br>
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 📂 [Project Frontend Repository](https://github.com/Drawcris/Finly-Front)
 📂 [Project Backend Repository](https://github.com/Drawcris/Finly_API)
+
+<hr/>
 
 📌**Koala Express <br> User and Route Management Application**  <br> <br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -61,6 +95,8 @@
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge) <br>
 📂 [Project Repository](https://github.com/Drawcris/GeoLocationAPI1.0)
 
+<hr/>
+
 📌**MovieWebApp** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -68,23 +104,19 @@
 📂 [Project Repository](https://github.com/Drawcris/MoviesWebApp)
 
 
-### 📬**Contact**
+<h2 align="center">⚡ Stats ⚡</h2> 
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Drawcris&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Drawcris&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Drawcris&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<h2 align="center">⚡ Contact ⚡</h2>
+<br>
+<div align=center>
+
 📧 Email: **M.Malutowski@outlook.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/mmalutowski/**
-
-
-
-<!--
-**Drawcris/Drawcris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
