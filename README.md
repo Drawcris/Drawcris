@@ -84,7 +84,10 @@ EduNotes is a collaborative note-taking platform that helps students and organiz
 
 <hr/>
 
-📌**Koala Express <br> User and Route Management Application**  <br> <br>
+📌**Koala Express <br> User and Route Management Application** 
+
+Koala Express is a web application designed to streamline the process of managing users and their assigned routes. The app allows users to create, edit, and delete routes, as well as visualize them on an interactive map. The goal is to provide a simple and efficient way to handle user-route associations while offering a modern and intuitive interface.
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
