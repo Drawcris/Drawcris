@@ -113,17 +113,9 @@ Koala Express is a web application designed to streamline the process of managin
 <h2 align="center">⚡ Stats ⚡</h2> 
 <br>
 <div align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drawcris&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drawcris&layout=compact&theme=tokyonight&langs_count=10&hide=jupyter%20notebook" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Drawcris&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
+![Drawcris's Stats](https://github-readme-stats.vercel.app/api?username=Drawcris&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Drawcris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drawcris&theme=vue-dark&hide_border=true)
+![Drawcris's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drawcris&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <h2 align="center">⚡ Contact ⚡</h2>
