@@ -117,12 +117,13 @@ Koala Express is a web application designed to streamline the process of managin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drawcris&theme=vue-dark&hide_border=true" alt="Drawcris's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Drawcris&theme=vue-dark&hide_border=true" alt="Drawcris's GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drawcris&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Drawcris's Top Languages" />
 </p>
+
 
 
 <h2 align="center">⚡ Contact ⚡</h2>
