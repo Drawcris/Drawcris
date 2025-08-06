@@ -118,7 +118,7 @@ Koala Express is a web application designed to streamline the process of managin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drawcris&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drawcris&layout=compact&theme=tokyonight&langs_count=10&hide=jupyter%20notebook" alt="Most Used Languages" />
 </p>
 
 <p align="center">
