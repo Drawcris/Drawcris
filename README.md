@@ -113,7 +113,7 @@ Koala Express is a web application designed to streamline the process of managin
 <h2 align="center">⚡ Stats ⚡</h2> 
 <br>
 <div align="center">
-  <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Drawcris&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
 </p>
 
