@@ -110,13 +110,20 @@ Koala Express is a web application designed to streamline the process of managin
 📂 [Project Repository](https://github.com/Drawcris/MoviesWebApp)
 
 
-<h2 align="center">⚡ Stats ⚡</h2> 
-<br>
-<div align="center">
-![Drawcris's Stats](https://github-readme-stats.vercel.app/api?username=Drawcris&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Drawcris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drawcris&theme=vue-dark&hide_border=true)
-![Drawcris's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drawcris&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drawcris&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Drawcris's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drawcris&theme=vue-dark&hide_border=true" alt="Drawcris's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drawcris&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Drawcris's Top Languages" />
+</p>
+
 
 <h2 align="center">⚡ Contact ⚡</h2>
 <br>
