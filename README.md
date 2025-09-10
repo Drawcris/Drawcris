@@ -46,6 +46,10 @@
 <br>
 <div align="center">
 
+📌 **In Develompement** 
+Tech: ASP.NET, Angular, postgresql
+<hr/>
+
 📌 **EduNotes**  
 EduNotes is a collaborative note-taking platform that helps students and organizations efficiently manage and share educational content through customizable channels and topics. The application features asynchronous operations, real-time likes system, AI-powered note summarization, and a comprehensive user ranking system that rewards active participation.
 
