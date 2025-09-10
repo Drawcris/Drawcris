@@ -12,9 +12,8 @@
 
 💻 I specialize in **Python** and **C#**, but I also enjoy working with **JS and TypeScript**.
 
-🚀 I develop modern web applications using **Django, FastAPI ASP.NET Web API** and build interactive user interfaces with **React and nextjs**. 
+🚀 I develop modern web applications using **Django, FastAPI ASP.NET Web API** and build frontend with **React, Angular and nextjs**. 
  
- 🌱 I’m currently learning **CI/CD, AWS**
 
  </div>
  
@@ -64,7 +63,7 @@ EduNotes is a collaborative note-taking platform that helps students and organiz
 
 
 
-📂 [Project Frontend Repository](https://github.com/AleeN1337/EduNotes)
+📂 [Project Frontend Repository](https://github.com/AleeN1337/EduNotes-2.0)
 📂 [Project Backend Repository](https://github.com/Drawcris/EduNotes_API)
 
 <hr/>
