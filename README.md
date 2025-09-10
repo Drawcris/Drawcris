@@ -67,7 +67,6 @@ EduNotes is a collaborative note-taking platform that helps students and organiz
 
 
 
-📂 [Project Frontend Repository](https://github.com/AleeN1337/EduNotes-2.0)
 📂 [Project Backend Repository](https://github.com/Drawcris/EduNotes_API)
 
 <hr/>
