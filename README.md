@@ -46,8 +46,9 @@
 <br>
 <div align="center">
 
-📌 **In Develompement** 
-Tech: ASP.NET, Angular, postgresql
+📌 **GuessIt** 
+...
+📂 [Project Backend Repository](https://github.com/Drawcris/GuessItAPI)
 <hr/>
 
 📌 **EduNotes**  
