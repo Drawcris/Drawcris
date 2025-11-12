@@ -6,13 +6,12 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a student notes managment app with ai features**
 
  🎓  Graduated with a **BSc in Computer Science.** I am currently pursuing a **Master's degree** in Computer Science.
 
 💻 I specialize in **Python** and **C#**, but I also enjoy working with **JS and TypeScript**.
 
-🚀 I develop modern web applications using **Django, FastAPI ASP.NET Web API** and build frontend with **React, Angular and nextjs**. 
+🚀 I develop modern web applications using **Django, FastAPI, ASP.NET Web API** and build frontend with **React, Angular and nextjs**. 
  
 
  </div>
