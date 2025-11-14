@@ -11,7 +11,7 @@
 
 💻 I specialize in **Python** and **C#**, but I also enjoy working with **JS and TypeScript**.
 
-🚀 I develop modern web applications using **Django, FastAPI, ASP.NET Web API** and build frontend with **React, Angular and nextjs**. 
+🚀 I develop modern web applications using **ASP.NET, FastAPI, Django** and build frontend with **React, Angular and nextjs**. 
  
 
  </div>
