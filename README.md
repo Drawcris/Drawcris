@@ -62,7 +62,7 @@ This application is an online testing platform, similar to TestPortal, designed 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 📂 [Project Backend Repository](https://github.com/Drawcris/GuessItAPI)
-📂 [Project Frontend Repository](https://github.com/Drawcris/GuessItFront)
+📂 [Project Frontend Repository](https://github.com/Drawcris/GuessItFrontend)
 
 <hr/>
 
